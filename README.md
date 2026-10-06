@@ -1,36 +1,355 @@
 <h1 align="center">Hi 👋, I'm SUMAN MANDAL</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devwithsuman&label=Profile%20views&color=0e75b6&style=flat" alt="devwithsuman" /> </p>
+<h3 align="center">
+Full Stack Developer • Cyber Security Enthusiast • Software Developer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devwithsuman" alt="devwithsuman" /></a> </p>
-
-- 🔭 I’m currently working on [SATPL](https://github.com/devwithsuman/satpl2026)
-
-- 🌱 I’m currently learning **Cyber Security**
-
-- 👯 I’m looking to collaborate on [SATPL](https://github.com/devwithsuman/satpl2026)
-
-- 👨‍💻 All of my projects are available at [devwithsuman.in](devwithsuman.in)
-
-- 💬 Ask me about **FULL STACK DEV**
-
-- 📫 How to reach me **devwithsuman@gmail.com**
-
-- 📄 Know about my experiences [devwithsuman.in](devwithsuman.in)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devwithsuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devwithsuman" height="30" width="40" /></a>
-<a href="https://fb.com/devwithsuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devwithsuman" height="30" width="40" /></a>
-<a href="https://instagram.com/devwithsuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devwithsuman" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://devwithsuman.in">
+    <img src="https://img.shields.io/badge/Portfolio-devwithsuman.in-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/devwithsuman">
+    <img src="https://img.shields.io/github/followers/devwithsuman?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=devwithsuman&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/devwithsuman">
+    <img src="https://img.shields.io/github/stars/devwithsuman?style=for-the-badge&logo=github&label=Total%20Stars" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/devwithsuman?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdevwithsuman&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=181717" alt="Public Repositories">
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devwithsuman&show_icons=true&locale=en&layout=compact" alt="devwithsuman" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devwithsuman&show_icons=true&locale=en" alt="devwithsuman" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devwithsuman&" alt="devwithsuman" /></p>
+I'm **Suman Mandal**, a developer from **India** passionate about building modern, useful and visually appealing software.
+
+I enjoy working across **frontend development, full-stack applications, UI/UX design, databases, cloud technologies and cyber security**.
+
+```javascript
+const suman = {
+    name: "Suman Mandal",
+    username: "devwithsuman",
+    location: "India 🇮🇳",
+
+    role: [
+        "Full Stack Developer",
+        "Frontend Developer",
+        "Software Developer"
+    ],
+
+    currentlyLearning: [
+        "Cyber Security",
+        "Advanced Web Development"
+    ],
+
+    interests: [
+        "Web Development",
+        "Software Development",
+        "Cyber Security",
+        "UI/UX",
+        "Open Source"
+    ],
+
+    website: "https://devwithsuman.in",
+    email: "devwithsuman@gmail.com"
+};
+```
+
+---
+
+## 🚀 What I'm Currently Doing
+
+- 🔭 Working on **SATPL**
+- 🌱 Learning **Cyber Security**
+- 💻 Building full-stack web applications
+- 🎨 Exploring modern UI/UX design
+- ☁️ Learning cloud and deployment technologies
+- 🤝 Open to interesting collaborations
+- 📚 Continuously improving my development skills
+
+### 🔗 SATPL
+
+<a href="https://github.com/devwithsuman/satpl2026">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devwithsuman&repo=satpl2026&theme=tokyonight&hide_border=true" alt="SATPL">
+</a>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devwithsuman&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats">
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithsuman&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" alt="Top Languages">
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=devwithsuman&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak">
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/devwithsuman">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devwithsuman&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph">
+  </a>
+</p>
+
+---
+
+## 🟩 Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/devwithsuman" alt="Suman's GitHub Contribution Graph">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devwithsuman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies">
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🔥 SATPL
+
+A development project currently being built and maintained by me.
+
+<a href="https://github.com/devwithsuman/satpl2026">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=devwithsuman&repo=satpl2026&theme=tokyonight&hide_border=true" alt="SATPL Repository">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💻 Explore My Repositories
+
+I regularly experiment with different technologies, development concepts and software projects.
+
+<a href="https://github.com/devwithsuman?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-All%20Repositories-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,html,css" alt="Programming Languages">
+</p>
+
+### 🌐 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" alt="Frontend Technologies">
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,dotnet,php" alt="Backend Technologies">
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" alt="Databases">
+</p>
+
+### ☁️ Cloud & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,linux,arduino" alt="Cloud and Development Tools">
+</p>
+
+### 🎨 Design
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Design Tools">
+</p>
+
+---
+
+# 📌 My Development Areas
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🌐 Web Development
+
+Frontend & Full Stack Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐 Cyber Security
+
+Security Research & Learning
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨 UI/UX
+
+Modern & Responsive Interfaces
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️ Cloud
+
+Deployment & Cloud Technologies
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Currently Learning
+
+```text
+Cyber Security
+      │
+      ├── Web Security
+      ├── Network Security
+      ├── Security Fundamentals
+      └── Ethical Security Research
+
+Full Stack Development
+      │
+      ├── Frontend Architecture
+      ├── Backend APIs
+      ├── Databases
+      └── Deployment
+```
+
+---
+
+# 📊 GitHub Activity Summary
+
+<p align="center">
+
+<img src="https://img.shields.io/github/commit-activity/y/devwithsuman?style=for-the-badge&logo=git&label=Commits">
+
+<img src="https://img.shields.io/github/last-commit/devwithsuman/satpl2026?style=for-the-badge&logo=github&label=Latest%20Commit">
+
+<img src="https://img.shields.io/github/issues/devwithsuman/satpl2026?style=for-the-badge&logo=github&label=Issues">
+
+<img src="https://img.shields.io/github/forks/devwithsuman/satpl2026?style=for-the-badge&logo=github&label=Forks">
+
+<img src="https://img.shields.io/github/stars/devwithsuman/satpl2026?style=for-the-badge&logo=github&label=Stars">
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://devwithsuman.in">
+<img src="https://img.shields.io/badge/Website-devwithsuman.in-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="https://github.com/devwithsuman">
+<img src="https://img.shields.io/badge/GitHub-devwithsuman-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/devwithsuman">
+<img src="https://img.shields.io/badge/LinkedIn-devwithsuman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://instagram.com/devwithsuman">
+<img src="https://img.shields.io/badge/Instagram-devwithsuman-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://fb.com/devwithsuman">
+<img src="https://img.shields.io/badge/Facebook-devwithsuman-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+</p>
+
+---
+
+# 📬 Contact
+
+<p align="center">
+
+<a href="mailto:devwithsuman@gmail.com">
+<img src="https://img.shields.io/badge/Email-devwithsuman%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Want an animated contribution snake on your profile?  
+> Enable the GitHub Action in your profile repository to generate it automatically.
+
+<!--
+After setting up the GitHub Action:
+
+<p align="center">
+  <img src="./output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
+</p>
+-->
+
+---
+
+# ⚡ GitHub Profile
+
+<p align="center">
+  <a href="https://github.com/devwithsuman">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  <i>Building. Learning. Creating. Repeating. 💻</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="Footer">
+</p>
