@@ -1,101 +1,91 @@
-<!-- ===================== HERO ===================== -->
+<div align="center">
 
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#58a6ff">SUMAN MANDAL</span>
-</h1>
+# 👋 Hi, I'm SUMAN MANDAL
 
-<h3 align="center">
-  Full Stack Developer • Frontend Developer • Cyber Security Enthusiast
-</h3>
+### Full Stack Developer • Frontend Developer • Cyber Security Enthusiast
 
-<p align="center">
-  I build modern web applications, developer tools and practical software solutions.
-</p>
+Building modern web applications, software solutions and technology projects.
 
-<p align="center">
-  <a href="https://devwithsuman.in">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-devwithsuman.in-58a6ff?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/devwithsuman">
-    <img src="https://img.shields.io/badge/GitHub-devwithsuman-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/devwithsuman">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <a href="mailto:devwithsuman@gmail.com">
-    <img src="https://img.shields.io/badge/📩%20Hire%20%2F%20Collaborate-devwithsuman%40gmail.com-2ea44f?style=for-the-badge" />
-  </a>
-</p>
+<a href="https://devwithsuman.in">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-devwithsuman.in-0A66C2?style=for-the-badge" alt="Portfolio">
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devwithsuman&label=Profile%20Views&color=58a6ff&style=flat-square" />
-</p>
+<a href="https://github.com/devwithsuman">
+  <img src="https://img.shields.io/badge/GitHub-devwithsuman-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://linkedin.com/in/devwithsuman">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:devwithsuman@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-Me-2EA44F?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=devwithsuman&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile views">
+
+</div>
 
 ---
 
-<!-- ===================== TYPING ===================== -->
+## 👨‍💻 About Me
 
-<p align="center">
-  <a href="https://github.com/devwithsuman">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences;Full+Stack+Development;Frontend+%26+UI%2FUX;Cyber+Security+%26+Technology;Always+learning%2C+always+building+%F0%9F%9A%80" />
-  </a>
-</p>
+I'm **Suman Mandal**, a developer from **India 🇮🇳** focused on building practical and modern software.
 
----
+I enjoy working across:
 
-# 👨‍💻 About Me
-
-Hi, I'm **Suman Mandal**, a developer from **India 🇮🇳** who enjoys turning ideas into real, usable software.
-
-My main interests are:
-
-- 🌐 Full Stack & Frontend Development
-- 🎨 UI/UX & modern web interfaces
+- 🌐 Full Stack Web Development
+- 💻 Frontend Development
+- 🎨 UI/UX Design
 - 🔐 Cyber Security
-- 🗄️ Databases & backend systems
-- ☁️ Cloud & deployment
-- 🤖 Technology and automation
-- 🚀 Open-source projects
+- 🗄️ Databases
+- ☁️ Cloud & Deployment
+- 🚀 Software Development
 
-I don't just want to write code.
+My goal is simple:
 
-**I want to build things that people can actually use.**
+> **Build useful things, keep learning, and turn ideas into working products.**
 
 ---
 
-# 🚀 What I Build
+## 🚀 What I Do
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🌐 Web Applications
+### 🌐 Full Stack Development
 
-Modern and responsive web applications with clean UI, scalable backend systems and database integration.
+I build responsive web applications with modern frontend interfaces, backend APIs and database systems.
 
-**Focus:**
-- Frontend
-- Full Stack
+**Focus**
+
+- Frontend Development
+- Backend Development
 - REST APIs
 - Authentication
-- Databases
+- Database Integration
+- Deployment
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔐 Security & Technology
+### 🔐 Cyber Security
 
-Currently expanding my knowledge in cyber security and security-focused development.
+Currently expanding my knowledge of cyber security and secure software development.
 
-**Focus:**
+**Focus**
+
 - Web Security
 - Network Security
 - Security Fundamentals
+- Secure Development
 - Ethical Security Research
 
 </td>
@@ -106,30 +96,34 @@ Currently expanding my knowledge in cyber security and security-focused developm
 
 <td width="50%" valign="top">
 
-### 🎨 UI/UX
+### 🎨 UI / UX
 
-Creating interfaces that are simple, modern and easy to use.
+I enjoy designing interfaces that are clean, responsive and easy to use.
 
-**Focus:**
-- Responsive Design
+**Tools**
+
 - Figma
-- User Experience
+- Photoshop
+- Illustrator
+- Responsive Design
 - Design Systems
 
 </td>
 
 <td width="50%" valign="top">
 
-### ☁️ Software & Cloud
+### ☁️ Cloud & Software
 
-Learning and working with modern development tools, cloud platforms and deployment technologies.
+Exploring modern development tools, cloud platforms and deployment workflows.
 
-**Focus:**
-- Git & GitHub
+**Technologies**
+
+- Git
+- GitHub
+- Linux
 - AWS
 - Google Cloud
-- Linux
-- Deployment
+- Firebase
 
 </td>
 
@@ -138,174 +132,177 @@ Learning and working with modern development tools, cloud platforms and deployme
 
 ---
 
-# 🔭 Currently Working On
+# 🔭 Featured Project
 
-### 🚀 SATPL
+## 🚀 SATPL
 
 A project currently being developed and maintained by me.
 
-<p align="center">
-  <a href="https://github.com/devwithsuman/satpl2026">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devwithsuman&repo=satpl2026&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/devwithsuman/satpl2026">
-    <img src="https://img.shields.io/badge/View%20Project-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/devwithsuman/satpl2026">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=devwithsuman&repo=satpl2026&theme=tokyonight&hide_border=true&border_radius=12" alt="SATPL">
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/devwithsuman/satpl2026">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+
+</a>
+
+</div>
 
 ---
 
-# 🧠 My Development Stack
+# 🛠️ Technology Stack
 
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python,php" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python,php" alt="Programming Languages">
+
 </p>
 
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react" />
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react" alt="Frontend Technologies">
+
 </p>
 
 ### Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,dotnet,php" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,dotnet,php" alt="Backend Technologies">
+
 </p>
 
 ### Database & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,aws,gcp" />
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,aws,gcp" alt="Database and Cloud">
+
 </p>
 
-### Tools & Design
+### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,arduino,figma,ps,ai" />
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,arduino,figma,ps,ai" alt="Development Tools">
+
 </p>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=devwithsuman&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github"
-  />
+<div align="center">
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithsuman&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-  />
-</p>
+<a href="https://github.com/devwithsuman">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=devwithsuman&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github&border_radius=12"
+alt="GitHub Statistics">
+
+</a>
+
+<a href="https://github.com/devwithsuman">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithsuman&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&border_radius=12"
+alt="Top Languages">
+
+</a>
+
+</div>
 
 ---
 
 # 🔥 Contribution Streak
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=devwithsuman&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="GitHub Contribution Streak"
-  />
-</p>
+<div align="center">
+
+<a href="https://github.com/devwithsuman">
+
+<img
+src="https://streak-stats.demolab.com/?user=devwithsuman&theme=tokyonight&hide_border=true&border_radius=12"
+alt="GitHub Contribution Streak">
+
+</a>
+
+</div>
 
 ---
 
 # 📈 Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devwithsuman&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Activity"
-  />
-</p>
+Instead of relying on a third-party live activity graph that can randomly disappear, your actual GitHub profile already provides the authoritative contribution calendar.
 
----
+<div align="center">
 
-# 🟩 Contribution Overview
+<a href="https://github.com/devwithsuman">
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/58a6ff/devwithsuman"
-    alt="GitHub Contribution Graph"
-  />
-</p>
+<img
+src="https://img.shields.io/badge/View%20Full%20Contribution%20History-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="Contribution History">
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=devwithsuman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-# 📌 Featured Repositories
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 SATPL
-
-<a href="https://github.com/devwithsuman/satpl2026">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devwithsuman&repo=satpl2026&theme=tokyonight&hide_border=true" />
 </a>
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+---
 
-### 💻 All Projects
+# 📌 Repository Overview
 
-Explore my repositories, experiments and development projects.
-
-<br>
+<div align="center">
 
 <a href="https://github.com/devwithsuman?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20Repositories-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Public%20Repositories-View%20All-0A66C2?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
-</td>
+<a href="https://github.com/devwithsuman?tab=stars">
 
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Starred%20Projects-View%20All-FFD700?style=for-the-badge&logo=github&logoColor=181717">
+
+</a>
+
+<a href="https://github.com/devwithsuman?tab=followers">
+
+<img src="https://img.shields.io/badge/Followers-Connect-2EA44F?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+</div>
 
 ---
 
-# 🎯 My Current Focus
+# 🎯 Current Focus
 
 ```text
 FULL STACK DEVELOPMENT
-        │
-        ├── Frontend
-        ├── Backend
-        ├── REST APIs
-        ├── Databases
-        └── Deployment
+├── Frontend
+├── Backend
+├── REST APIs
+├── Databases
+└── Deployment
 
 CYBER SECURITY
-        │
-        ├── Web Security
-        ├── Network Security
-        ├── Security Fundamentals
-        └── Ethical Research
+├── Web Security
+├── Network Security
+├── Security Fundamentals
+└── Secure Development
 
 UI / UX
-        │
-        ├── Responsive Design
-        ├── Modern Interfaces
-        └── User Experience
+├── Responsive Design
+├── Modern Interfaces
+└── User Experience
